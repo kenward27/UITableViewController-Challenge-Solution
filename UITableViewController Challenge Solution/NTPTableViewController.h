@@ -1,5 +1,5 @@
 //
-//  NTPViewController.h
+//  NTPTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Ken Ward on 5/29/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface NTPViewController : UIViewController
+@interface NTPTableViewController : UITableViewController
 
 @end
